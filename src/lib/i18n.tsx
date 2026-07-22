@@ -145,7 +145,7 @@ const dict: Record<Lang, Dict> = {
       submitLabel: "送信",
     },
     footer: {
-      copyright: "© 2026 八重山漁業協同組合. 全ての権利を留保します。",
+      copyright: "© 2026 八重山漁業協同組合. All Rights Reserved.",
     },
   },
   en: {

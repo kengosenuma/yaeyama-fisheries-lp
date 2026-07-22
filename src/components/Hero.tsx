@@ -49,7 +49,7 @@ export default function Hero() {
               href="#products"
               className={cn(
                 buttonVariants({ variant: "outline", size: "lg" }),
-                "border-ocean-deep-foreground/40 text-ocean-deep-foreground hover:bg-ocean-deep-foreground/10",
+                "bg-transparent border-ocean-deep-foreground/40 text-ocean-deep-foreground hover:bg-ocean-deep-foreground/10",
                 "focus-visible:outline-2 focus-visible:outline-secondary"
               )}
             >
